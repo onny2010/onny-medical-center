@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Generic Medicine",
+        "img": "https://i.ibb.co/y5tK65t/01.jpg",
+        "description": "Dignissim libero donec accumsan cubilia consectetuer lobortis ornare si vehicula amet fames"
+    },
+    {
+        "id": 2,
+        "title": "Health Checks & Screening",
+        "img": "https://i.ibb.co/RTXdmXn/02.jpg",
+        "description": "Dignissim libero donec accumsan cubilia consectetuer lobortis ornare si vehicula amet fames"
+    },
+    {
+        "id": 3,
+        "title": "Medicine Consultation",
+        "img": "https://i.ibb.co/CJHfByB/03.jpg",
+        "description": "Dignissim libero donec accumsan cubilia consectetuer lobortis ornare si vehicula amet fames"
+    },
+    {
+        "id": 4,
+        "title": "Doctor Receipt",
+        "img": "https://i.ibb.co/vQHrDJc/04.jpg",
+        "description": "Dignissim libero donec accumsan cubilia consectetuer lobortis ornare si vehicula amet fames"
+    },
+    {
+        "id": 5,
+        "title": "Vaccination",
+        "img": "https://i.ibb.co/RP7dwxb/05.jpg",
+        "description": "Dignissim libero donec accumsan cubilia consectetuer lobortis ornare si vehicula amet fames"
+    },
+    {
+        "id": 6,
+        "title": "Pharmacy Store",
+        "img": "https://i.ibb.co/W6Sf4bM/06.jpg",
+        "description": "Dignissim libero donec accumsan cubilia consectetuer lobortis ornare si vehicula amet fames"
+    }
+]

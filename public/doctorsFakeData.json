@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "name": "Dr. Debashish",
+        "specialist": "Anesthesiologists",
+        "img": "https://i.ibb.co/B3DXPsc/bruno-rodrigues-279x-IHym-PYY-unsplash-1.jpg"
+    },
+    {
+        "id": 102,
+        "name": "Dr. Antima Chattergy ",
+        "specialist": "Neurologists",
+        "img": "https://i.ibb.co/1MnPfr2/doctor-mako-p-Msyc-X4-AOKM-unsplash-1.jpg"
+    },
+    {
+        "id": 103,
+        "name": "Dr. Hu Juan",
+        "specialist": "Cardiologists",
+        "img": "https://i.ibb.co/Y8ybPKy/dalton-ngangi-ZCztnd-OWdjs-unsplash-1.jpg"
+    },
+    {
+        "id": 104,
+        "name": "Dr. Margaret Chan",
+        "specialist": "Colon and Rectal Surgeons",
+        "img": "https://i.ibb.co/QP7GDP3/national-cancer-institute-koo-Sjl-L8-Ln-Q-unsplash-1.jpg"
+    }
+]

@@ -1,0 +1,22 @@
+.about-container {
+    background-color: #cccccc;
+    padding-top: 20px;
+    /* padding-bottom: 10px; */
+    color: rgb(216, 209, 209);
+  }
+.about-body{
+    padding-bottom: 30px;
+    background-color: rgb(255, 255, 255);
+}
+.about-img{
+    width: 100%;
+}
+
+.heading{
+    padding-top: 30px;
+    color: rgb(44, 44, 116);
+}
+.details{
+    padding: 50px;
+    color: rgb(20, 14, 14);
+}

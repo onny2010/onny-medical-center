@@ -1,0 +1,11 @@
+.feature-container{
+    display: flex;
+    padding: 50px;
+}
+
+.feature-text{
+    padding-bottom: 20px;
+}
+.feature-img{
+    height: 130px;
+}

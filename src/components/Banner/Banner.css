@@ -1,0 +1,30 @@
+.banner-container{
+    background-image: url('../../images/banner/1.webp');
+    height: 600px;
+    width: 100%;
+    padding: 0px 10px;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+}
+
+.title{
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: rgb(46, 57, 71);
+    font-weight: bold;
+    font-size: 60px;
+}
+p{
+    color: rgb(34, 42, 49);
+}
+.about-btn{
+    background-color: rgb(73, 87, 149);
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    padding: 17px 34px;
+    color: rgb(253, 253, 253);
+    font-weight: 700;
+}
